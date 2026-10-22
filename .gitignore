@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Node.js
+node_modules/
+dashboard/node_modules/
+dashboard/dist/
+
+# Editor and operating system
+.vscode/
+.DS_Store
+Thumbs.db
