@@ -117,13 +117,10 @@ This project uses a dataset of 250 transactions for demonstration and portfolio 
 ## 📸 Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshots/dashboard-overview.png)
+![Dashboard Overview](Screenshots/dashboard-overview.png.jpeg)
 
-### Branch Performance and Charts
-![Branch Performance](Screenshots/branch-performance.png)
+![Branch Performance](Screenshots/branch-performance.png.jpeg)
 
-### Key Business Insights
-![Business Insights](Screenshots/business-insights.png)
+![Business Insights](Screenshots/business-insights.png.jpeg)
 
-### Transaction Details
-![Transaction Details](Screenshots/transaction-details.png)
+![Transaction Details](Screenshots/transaction-details.png.jpeg)
